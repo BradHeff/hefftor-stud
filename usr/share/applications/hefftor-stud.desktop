@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=HefftorLinux Stud
+GenericName=Hefftor Stud
+X-GNOME-FullName=Hefftor Stud
+Comment=Welcome Application for writing ISO to USB
+Exec=/usr/local/bin/hefftor-stud
+Icon=hefftorlinux
+Terminal=false
+Type=Application
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=hefftor;tool;
+StartupNotify=true

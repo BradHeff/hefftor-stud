@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+
+/usr/lib/hefftor-usb-creator/hefftor_stud
+# python /home/bheffernan/Repos/Python-Apps/Hefftor_Apps/hefftor-usb-creator/usr/lib/hefftor-usb-creator/HUC.py
